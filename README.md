@@ -4,15 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To install dependencies:
 ```bash
-npm install
+yarn install
 ```
 
 To start the server:
 ```bash
-npm start
+yarn start
 ```
 
 To run the tests:
 ```bash
-npm test
+yarn test
 ```
